@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Naloga0602.dir/naloga0602.cpp.o CMakeFiles/Naloga0602.dir/TeamSport.cpp.o CMakeFiles/Naloga0602.dir/Soccer.cpp.o CMakeFiles/Naloga0602.dir/Basketball.cpp.o CMakeFiles/Naloga0602.dir/SportsEvent.cpp.o -o Naloga0602.exe -Wl,--out-implib,libNaloga0602.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
