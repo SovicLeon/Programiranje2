@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0901/Date.cpp
+iostream
+-
+Date.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0901/Date.h
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0901/Date.h
+string
+-
+
