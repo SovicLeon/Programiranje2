@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0501/Artist.h
+Date.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0501/Date.h
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0501/Artwork.h
+iostream
+-
+Artist.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0501/Artist.h
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0501/Date.h
+string
+-
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0501/Film.h
+Artwork.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0501/Artwork.h
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0501/Gallery.h
+vector
+-
+Artwork.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0501/Artwork.h
+Painting.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0501/Painting.h
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0501/Painting.h
+Artwork.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0501/Artwork.h
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0501/naloga0501.cpp
+Gallery.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0501/Gallery.h
+Film.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0501/Film.h
+
