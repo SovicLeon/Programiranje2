@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Naloga0801.dir/naloga0801.cpp.o CMakeFiles/Naloga0801.dir/Antenna.cpp.o -o Naloga0801.exe -Wl,--out-implib,libNaloga0801.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
