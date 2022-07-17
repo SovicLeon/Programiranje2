@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0702/ColorCode.h
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0702/Material.h
+string
+-
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0702/Planet.h
+string
+-
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0702/PrintUtility.h
+iostream
+-
+ColorCode.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0702/ColorCode.h
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0702/VectorUtil.h
+vector
+-
+string
+-
+iostream
+-
+random
+-
+PrintUtility.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0702/PrintUtility.h
+Material.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0702/Material.h
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0702/naloga0702.cpp
+iostream
+-
+VectorUtil.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0702/VectorUtil.h
+Planet.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0702/Planet.h
+
