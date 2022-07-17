@@ -1,0 +1,13 @@
+2022-06-03 14:41:41.618 [DEBUG] Program start.
+2022-06-03 14:41:41.620 [ERROR] Wrong address format: "Vrazov3a ulica 1"
+2022-06-03 14:41:41.621 [ERROR] Wrong address format: "Malesa ulica"
+2022-06-03 14:41:41.621 [ERROR] Wrong address format: " "
+2022-06-03 14:41:41.622 [ERROR] Wrong address format: " 1"
+2022-06-03 14:41:41.622 [ERROR] Wrong address format: "Testna ulica "
+2022-06-03 14:41:41.623 [ERROR] Unparseable date: "6.12.199a"
+2022-06-03 14:41:41.624 [DEBUG] LoadFromFile 1 finished.
+2022-06-03 14:41:41.625 [DEBUG] SaveToFile 1 finished.
+2022-06-03 14:41:41.628 [DEBUG] LoadFromFile 2 finished.
+2022-06-03 14:41:41.629 [WARN] File: "doesNotExist.csv" doesn't exist.
+2022-06-03 14:41:41.630 [DEBUG] LoadFromFile 3 finished.
+2022-06-03 14:41:41.631 [INFO] This is additional message. We can also put multiple << and other types, not just strings e.g. 5
