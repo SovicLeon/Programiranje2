@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Naloga0701.dir/naloga0701.cpp.o CMakeFiles/Naloga0701.dir/Material.cpp.o CMakeFiles/Naloga0701.dir/Planet.cpp.o -o Naloga0701.exe -Wl,--out-implib,libNaloga0701.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
