@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0201/Artwork.cpp
+Artwork.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0201/Artwork.h
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0201/Artwork.h
+iostream
+-
+vector
+-
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0201/naloga0201.cpp
+Artwork.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0201/Artwork.h
+
