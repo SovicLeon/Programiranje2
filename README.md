@@ -4,4 +4,4 @@ Naloga = task/project
 
 Programiranje = programming
 
-Everything else is written in english.
+Everything else is written in English.
