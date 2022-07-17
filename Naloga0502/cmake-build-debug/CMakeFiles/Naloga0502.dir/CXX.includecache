@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0502/AirConditioner.h
+Device.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0502/Device.h
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0502/Device.h
+string
+-
+random
+-
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0502/Light.h
+Device.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0502/Device.h
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0502/Lock.h
+Device.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0502/Device.h
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0502/SmartHome.h
+vector
+-
+Device.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0502/Device.h
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0502/naloga0502.cpp
+iostream
+-
+SmartHome.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0502/SmartHome.h
+Lock.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0502/Lock.h
+Light.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0502/Light.h
+AirConditioner.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0502/AirConditioner.h
+
