@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Naloga0302.dir/naloga0302.cpp.o CMakeFiles/Naloga0302.dir/TextUtility.cpp.o -o Naloga0302.exe -Wl,--out-implib,libNaloga0302.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
