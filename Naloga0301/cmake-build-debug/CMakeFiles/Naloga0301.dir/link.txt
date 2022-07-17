@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Naloga0301.dir/naloga0301.cpp.o CMakeFiles/Naloga0301.dir/Time.cpp.o -o Naloga0301.exe -Wl,--out-implib,libNaloga0301.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

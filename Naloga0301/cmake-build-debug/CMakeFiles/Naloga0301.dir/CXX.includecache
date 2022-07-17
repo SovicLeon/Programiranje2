@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0301/Time.cpp
+Time.h
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0301/Time.h
+
+/cygdrive/d/Faks/2semester/Programiranje2/Naloga0301/Time.h
+iostream
+-
+string
+-
+sstream
+-
+
