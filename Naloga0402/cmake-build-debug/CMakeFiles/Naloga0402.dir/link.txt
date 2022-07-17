@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Naloga0402.dir/naloga0402.cpp.o CMakeFiles/Naloga0402.dir/Person.cpp.o CMakeFiles/Naloga0402.dir/Event.cpp.o CMakeFiles/Naloga0402.dir/Date.cpp.o CMakeFiles/Naloga0402.dir/Conference.cpp.o -o Naloga0402.exe -Wl,--out-implib,libNaloga0402.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
