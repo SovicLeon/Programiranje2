@@ -1,0 +1,4 @@
+C:\Users\Leon\AppData\Local\JetBrains\CLion2021.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /cygdrive/d/Faks/2semester/Programiranje2/Naloga0202
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/Faks/2semester/Programiranje2/Naloga0202/cmake-build-debug

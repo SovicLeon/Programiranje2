@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Naloga0202.dir/naloga0202.cpp.o CMakeFiles/Naloga0202.dir/WaterIntake.cpp.o -o Naloga0202.exe -Wl,--out-implib,libNaloga0202.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
